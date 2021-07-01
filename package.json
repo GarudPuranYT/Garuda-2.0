@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
     "main": "Garuda 2.0.js",
-    "author": "Numʙeʀ乛4",
+    "author": "GarudPuranYT",
     "scripts": {
         "start": "node bot.js"
     },
